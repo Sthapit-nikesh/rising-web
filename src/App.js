@@ -4,8 +4,6 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import Services from "./components/Services";
 import Footer from "./components/Footer";
-import RecruitingCountries from "./components/RecruitingCountries";
-import MessagesSlider from "./components/message";
 import About from "./components/About"; 
 import Contact from "./components/contact"; 
 import CompanyProfile from "./components/CompanyProfile";

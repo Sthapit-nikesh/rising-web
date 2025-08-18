@@ -10,7 +10,6 @@ import {
   AiOutlineEnvironment,
   AiOutlineArrowUp,
 } from "react-icons/ai";
-import { socialLinks } from "../data";
 import logo from "../images/logo.jpg";
 
 const Footer = () => {
