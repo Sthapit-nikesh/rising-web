@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/rising-web/static/css/main.d67f8deb.css",
+    "main.js": "/rising-web/static/js/main.b2d4ad80.js",
+    "static/media/logo.jpg": "/rising-web/static/media/logo.1a39f4e7061848be323f.jpg",
+    "static/media/hero.png": "/rising-web/static/media/hero.ce81b5f360f502c89b8e.png",
+    "static/media/dubai.jpg": "/rising-web/static/media/dubai.ea01e77d41abfa06d188.jpg",
+    "static/media/kuwait.jpeg": "/rising-web/static/media/kuwait.7285ab1cdf5c5caf534e.jpeg",
+    "static/media/office.png": "/rising-web/static/media/office.f014e1c96da6c4090af5.png",
+    "static/media/usa.jpg": "/rising-web/static/media/usa.05d5949e28846c021c70.jpg",
+    "index.html": "/rising-web/index.html",
+    "main.d67f8deb.css.map": "/rising-web/static/css/main.d67f8deb.css.map",
+    "main.b2d4ad80.js.map": "/rising-web/static/js/main.b2d4ad80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d67f8deb.css",
+    "static/js/main.b2d4ad80.js"
+  ]
+}
